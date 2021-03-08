@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DershaneOtomasyonum", "DershaneOtomasyonum\DershaneOtomasyonum.csproj", "{67B6F39E-0801-4498-B086-963278C73E68}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DershanemYeni", "DershanemYeni\DershanemYeni.vdproj", "{A200BF1E-F33C-43B6-B351-E94A68C6F9A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B6F39E-0801-4498-B086-963278C73E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B6F39E-0801-4498-B086-963278C73E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B6F39E-0801-4498-B086-963278C73E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B6F39E-0801-4498-B086-963278C73E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A200BF1E-F33C-43B6-B351-E94A68C6F9A3}.Debug|Any CPU.ActiveCfg = Debug
+		{A200BF1E-F33C-43B6-B351-E94A68C6F9A3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91EFAE5-29A1-4262-B679-29EFCD25096F}
+	EndGlobalSection
+EndGlobal
